@@ -62,7 +62,7 @@ int main()
 			i -=1;
 		}
 	}
-	cout<<"tree: \n";
+	cout<<"random tree: \n";
 	for(auto a:way){
 		cout<<a<<endl;
 	}
